@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "fe65f0aa6c37830f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f99b93e357181714",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df97177cde531548",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factories/Machines/Machines.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Machines"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d9b689dfd7aa470",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1371d42c596ee42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47f1dbcec0b97407",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5f6aca33923fe763",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a7635aa77dd1e633",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "41b59405fd912b74",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d0152632707d90c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "268d27c1ba5e5267",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Overcharge Info.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Overcharge Info"
+            }
+          },
+          {
+            "id": "a1d65b8ce20a0322",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Overcharge Info.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Overcharge Info"
+            }
+          },
+          {
+            "id": "a08df765ad368acc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "759582204ee96173",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Overcharge Info.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Overcharge Info"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "df97177cde531548",
+  "lastOpenFiles": [
+    "Overcharge Info.md",
+    "Factories/Machines/Pump.md",
+    "Factories/Machines/Machines.md",
+    "Factories/Machines/Water Wheel.md",
+    "Untitled.md",
+    "Untitled",
+    "Factories/Machines/Pump",
+    "Resources/Manufactured",
+    "Resources/Refined",
+    "Resources/Raw",
+    "Factories/Machines",
+    "Resources",
+    "Factories",
+    "People"
+  ]
+}
